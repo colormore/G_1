@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "ca835142d241f6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d6c5a64aa735d8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2975bdc6e0519d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSR_game_design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PSR_game_design"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81e0744123135a54",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccb8e67a476ddc6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60ec42b86cac638e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a312839dee05330d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "57d396d03df0d256",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4c6982478c981dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb8659eb38425daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f96a60abb564de7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PSR_game_design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "PSR_game_design 的反向链接列表"
+            }
+          },
+          {
+            "id": "96100be0e89570c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PSR_game_design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "PSR_game_design 的出链列表"
+            }
+          },
+          {
+            "id": "355b872bfbe346b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b6d2a9f5a4c6c761",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "391c93dfafa3f472",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PSR_game_design.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "PSR_game_design 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "2975bdc6e0519d99",
+  "lastOpenFiles": [
+    "PSR_game_design.md",
+    "player_line.gd.uid",
+    "player_backup.gd.uid",
+    "main.gd.uid",
+    "enemy_line.gd.uid",
+    "element.gd.uid",
+    "main.tscn",
+    "main.gd",
+    "enemy_line.gd",
+    "player_line.gd",
+    "player_backup.gd"
+  ]
+}
